@@ -14,6 +14,7 @@
 - https://matplotlib.org/stable/search.html?q=subplot
 - https://plotly.com/python/
 - https://docs.streamlit.io/develop/api-reference/layout/st.sidebar
+- https://plotly.com/python/plotly-express/
 
 # Music
 - https://www.jiosaavn.com/
