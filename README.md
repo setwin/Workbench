@@ -13,6 +13,8 @@
 - https://pandas.pydata.org/pandas-docs/stable/reference/index.html
 - https://matplotlib.org/stable/search.html?q=subplot
 - https://plotly.com/python/
+- https://docs.streamlit.io/develop/api-reference/layout/st.sidebar
+
 # Music
 - https://www.jiosaavn.com/
 - https://music.youtube.com/watch?v=2CAz5cP-4wg&list=RDAMVMSOessajf_Ik
