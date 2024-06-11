@@ -16,6 +16,7 @@
 - https://docs.streamlit.io/develop/api-reference/layout/st.sidebar
 - https://plotly.com/python/plotly-express/
 - https://dash.plotly.com/
+- https://seaborn.pydata.org/api.html
 
 # Music
 - https://www.jiosaavn.com/
