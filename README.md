@@ -29,3 +29,5 @@
 # Supportive Website
 - https://www.desmos.com/calculator
 - https://www.ztable.net/
+# Python Library
+- https://rasbt.github.io/mlxtend/
