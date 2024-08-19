@@ -17,7 +17,6 @@
 - https://plotly.com/python/plotly-express/
 - https://dash.plotly.com/
 - https://seaborn.pydata.org/api.html
-- https://scikit-learn.org/stable/user_guide.html
 
 # Music
 - https://www.jiosaavn.com/
@@ -32,3 +31,4 @@
 - https://www.ztable.net/
 # Python Library
 - https://rasbt.github.io/mlxtend/
+- https://scikit-learn.org/stable/user_guide.html
