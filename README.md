@@ -33,3 +33,7 @@
 # Python Library
 - https://rasbt.github.io/mlxtend/
 - https://scikit-learn.org/stable/user_guide.html
+
+# Advance Web Scrapping
+- https://pypi.org/project/selenium/
+- https://developer.chrome.com/docs/chromedriver/downloads
