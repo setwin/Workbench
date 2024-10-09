@@ -38,3 +38,6 @@
 # Advance Web Scrapping
 - https://pypi.org/project/selenium/
 - https://developer.chrome.com/docs/chromedriver/downloads
+
+# Research Paper
+- https://explained.ai/
