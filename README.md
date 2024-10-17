@@ -35,6 +35,9 @@
 - https://rasbt.github.io/mlxtend/
 - https://scikit-learn.org/stable/user_guide.html
 
+# Algorithms Github
+- https://github.com/setwin/Algorithms
+
 # Advance Web Scrapping
 - https://pypi.org/project/selenium/
 - https://developer.chrome.com/docs/chromedriver/downloads
